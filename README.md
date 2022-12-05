@@ -1,2 +1,2 @@
 # MinorProject1
-Creating a Network Packet sniffer usinG JAVA.
+Creating a Network Packet sniffer using JAVA.
